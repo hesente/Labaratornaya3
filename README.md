@@ -42,3 +42,11 @@
 1. Откройте проект в Android Studio.
 2. Запустите приложение на эмуляторе или физическом устройстве Android.
 3. Используйте кнопки на главном экране для взаимодействия с базой данных.
+
+
+![image](https://github.com/user-attachments/assets/14a35196-b9cf-4c29-9d8e-b6816666f1ee)
+![image](https://github.com/user-attachments/assets/b35be711-b7f8-44d2-bc1e-585af33efe72)
+![image](https://github.com/user-attachments/assets/7ad0bf03-298a-487c-8ecd-be99e0867024)
+
+
+
